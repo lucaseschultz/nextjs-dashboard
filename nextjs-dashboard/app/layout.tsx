@@ -1,6 +1,7 @@
 // pnpm dev
-// http://localhost:3000/
-// http://localhost:3000/dashboard
+// Email: user@nextmail.com
+// Password: 123456
+
 
 import '@/app/ui/global.css';
 import { inter } from '@/app/ui/fonts';
